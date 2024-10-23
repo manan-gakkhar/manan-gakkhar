@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and UI/UX Designing
 - 🌱 I’m currently learning MERN and Figma Wireframings
 - 💞️ I’m looking to collaborate on any project or internships in frontend or UI designs
-- 📫 How to reach me:gakkhar.manan11@gmail.com is my email id, you can directly get in touch with me
+- 📫 How to reach me: gakkhar.manan11@gmail.com is my email id, you can directly get in touch with me
 - 🔗Linkedin: www.linkedin.com/in/manan-gakkhar-97b01228b
 - ⚡ I have participaated (x7) Hackathons and attended various sessions, bootcamps and meetups on varius technologies
 This is my short Intro :
