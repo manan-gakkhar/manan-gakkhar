@@ -5,7 +5,7 @@
 - 📫 How to reach me: gakkhar.manan11@gmail.com is my email id, you can directly get in touch with me
 - 🔗Linkedin: www.linkedin.com/in/manan-gakkhar-97b01228b
 - ⚡ I have participaated (x7) Hackathons and attended various sessions, bootcamps and meetups on varius technologies
-This is my short Intro :
+  📜This is my short Intro :
 I'm **Manan Gakkhar**, a **Computer Science engineering student** and my coding journey is defined by a unique blend of technical expertise, creative flair, and a strategic mindset.
 Beyond coding in **Full Stack Development**, my passion extends to **UI/UX design**.
 In addition to core languages and design, I leverage a range of essential tools such as ChatGPT and Canva to streamline workflows and enhance creativity.
