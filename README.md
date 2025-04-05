@@ -3,7 +3,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2dmdlcmFtbHEzdWxpN2c1aDUyb2hwYmJ1a3RzcGR0OGt0dmJwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400px" height="200px" /> 
 </div>
 <h3 align="center">Web Developer || UI/UX Prototyping || Crafting Custom Solutions || Turning Visions into Reality</h3>
-<h4>As a B.Tech/BE student specializing in Computer Science at Dr. Akhilesh Das Gupta Institute of Technology and Management (ADGITM), New Delhi affilated by <b>GGSIPU</b>. I possess a strong foundation in programming languages, data structures, algorithms and front-end development. My skills include proficiency in web development, web design. I am learning Full stack and want to be a proficient Web Developer.</h4>
+<h4>As a B.Tech/BE student specializing in Computer Science at Dr. Akhilesh Das Gupta Institute of Technology and Management (ADGITM), New Delhi affilated by <b>GGSIPU</b>. I possess a strong foundation in programming languages, data structures, algorithms and front-end development. My skills include proficiency in web development, web design. I am learning Full stack.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-gakkhar&label=Profile%20views&color=0e75b6&style=flat" alt="manan-gakkhar" /> </p>
 
 
