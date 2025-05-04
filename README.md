@@ -32,3 +32,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manan-gakkhar" alt="GitHub Streak" /></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manan-gakkhar&show_icons=true&locale=en" alt="manan-gakkhar" /></p>
+<h3>Leetcode Stats</h3>
+<img src="https://leetcard.jacoblin.cool/manan-gakkhar?theme=dark&font=DM%20Sans&ext=activity" />
+<h3>HackerRank Stats</h3>
+<a href="https://www.hackerrank.com/profile/gakkhar_manan11">View Profile</a>
+<img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1746383580/Screenshot_2025-05-04_235927_gea8no.png"/>
