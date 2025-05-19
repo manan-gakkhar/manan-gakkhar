@@ -37,3 +37,4 @@
 <h3>HackerRank Stats</h3>
 <a href="https://www.hackerrank.com/profile/gakkhar_manan11">View Profile</a>
 <img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1746383580/Screenshot_2025-05-04_235927_gea8no.png"/>
+<img src="https://raw.githubusercontent.com/maasker/HackerRank/main/badges/python_5_star.png" height="150" width="150"/>
