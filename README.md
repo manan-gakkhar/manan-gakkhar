@@ -8,8 +8,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-manan-gakkhars-projects.vercel.app/](https://portfolio-manan-gakkhars-projects.vercel.app/)
-
+- 👨‍💻 All of my projects are available here.
 - 💬 Ask me about **MERN, Python, Java**
 
 - 📫 How to reach me **gakkhar.manan11@gmail.com**
