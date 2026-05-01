@@ -1,37 +1,69 @@
-<h1 align="center">Hi👋, I'm Manan gakkhar</h1>
+<h1 align="center">Hi 👋, I'm Manan Gakkhar</h1>
+
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2dmdlcmFtbHEzdWxpN2c1aDUyb2hwYmJ1a3RzcGR0OGt0dmJwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400px" height="200px" /> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2dmdlcmFtbHEzdWxpN2c1aDUyb2hwYmJ1a3RzcGR0OGt0dmJwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400px" />
 </div>
-<h3 align="center">Web Developer || UI Prototyping || Crafting Custom Solutions || Turning Visions into Reality</h3>
-<h4>As a B.Tech/BE student specializing in Computer Science at Dr. Akhilesh Das Gupta Institute of Technology and Management (ADGITM), New Delhi affiliated by <b>GGSIPU</b>. I possess a strong foundation in programming languages, data structures, algorithms and front-end development. My skills include proficiency in web development, web design. I am learning Full stack Development.</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manan-gakkhar&label=Profile%20views&color=0e75b6&style=flat" alt="manan-gakkhar" /> </p>
 
+<h3 align="center">
+Web Developer || UI Prototyping || Crafting Custom Solutions
+</h3>
 
+---
 
-- 👨‍💻 All of my projects are available here.
+### 👨‍💻 About Me
+- 🎓 B.Tech CSE @ ADGITM (GGSIPU)
 - 💬 Ask me about **MERN, Python, Java**
+- 📫 Email: **gakkhar.manan11@gmail.com**
+- ⚡ Collaborative | Leader | Problem Solver
 
-- 📫 How to reach me **gakkhar.manan11@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zet8IgF-skuxrMV0GMIRkOvxxXbVetDm/view?usp=sharing](https://drive.google.com/file/d/1zet8IgF-skuxrMV0GMIRkOvxxXbVetDm/view?usp=sharing)
-
-- ⚡ Fun fact **Collaborative, Leading, Problem solver and good in managing different tasks**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me
 <p align="left">
-<a href="https://twitter.com/manangakkhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manangakkhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manan-gakkhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-gakkhar" height="30" width="40" /></a>
-<a href="https://discord.gg/manangakkhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manangakkhar" height="40" width="50" /></a>
+  <a href="https://twitter.com/manangakkhar">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/manan-gakkhar">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://discord.gg/manangakkhar">
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="60"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan-gakkhar&show_icons=true&locale=en&layout=compact" alt="manan-gakkhar" /></p>
+### 🚀 Languages and Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,cpp,c,bootstrap,tailwind,firebase,figma,git,linux,webpack,vue" />
+</div>
 
-<h3>Leetcode Stats</h3>
+---
+
+### 📊 GitHub Stats
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manan-gakkhar&theme=tokyonight" alt="GitHub Streak" /></a>
+
+---
+
+### 🧠 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/manan-gakkhar?theme=dark&font=DM%20Sans&ext=activity" />
-<h3>HackerRank Stats</h3>
-<a href="https://www.hackerrank.com/profile/gakkhar_manan11">View Profile</a>
-<div><img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1746383580/Screenshot_2025-05-04_235927_gea8no.png"/><img src="https://raw.githubusercontent.com/maasker/HackerRank/main/badges/python_5_star.png" height="150" width="150"/><img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1748534132/Screenshot_2025-05-29_212338_a5rirx.png"height="160" width="175"/></div>
 
+---
+
+### 💻 HackerRank
+
+<p>
+  <a href="https://www.hackerrank.com/profile/gakkhar_manan11">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+  </a>
+</p>
+
+<div align="left" style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
+
+  <img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1746383580/Screenshot_2025-05-04_235927_gea8no.png" height="150"/>
+
+  <img src="https://raw.githubusercontent.com/maasker/HackerRank/main/badges/python_5_star.png" height="150"/>
+
+  <img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1748534132/Screenshot_2025-05-29_212338_a5rirx.png" height="150"/>
+
+</div>
