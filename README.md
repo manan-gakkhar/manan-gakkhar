@@ -53,8 +53,9 @@ Web Developer || UI Prototyping || Crafting Custom Solutions
 ### 💻 HackerRank
 
 <p>
+  <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
   <a href="https://www.hackerrank.com/profile/gakkhar_manan11">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+    hackerrank.com/gakkhar_manan11
   </a>
 </p>
 
