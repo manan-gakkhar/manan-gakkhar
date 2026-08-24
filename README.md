@@ -41,9 +41,11 @@ Web Developer || UI Prototyping || Crafting Custom Solutions
 ---
 
 ### 📊 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manan-gakkhar&theme=tokyonight" alt="GitHub Streak" /></a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=manan-gakkhar&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=manan-gakkhar&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manan-gakkhar&layout=compact&theme=github_dark)
 
----
+
 
 ### 🧠 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/manan-gakkhar?theme=dark&font=DM%20Sans&ext=activity" />
