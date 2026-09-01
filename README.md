@@ -65,7 +65,7 @@ Web Developer || UI Prototyping || Crafting Custom Solutions
 
   <img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1746383580/Screenshot_2025-05-04_235927_gea8no.png" height="150"/>
 
-  <img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1748534132/Screenshot_2025-05-29_212338_a5rirx.png" height="150"/>
+  <img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1787383494/Screenshot_2026-08-22_125118-Photoroom_ugxoe4.png" height="150"/>
 
   <img src="https://res.cloudinary.com/dvy1wimhc/image/upload/v1748534132/Screenshot_2025-05-29_212338_a5rirx.png" height="150"/>
 
