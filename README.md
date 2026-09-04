@@ -12,7 +12,7 @@ Full-Stack Engineer || Built for shipping, wired for winning
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech CSE @ ADGITM (GGSIPU)
-- 💬 Ask me about **MERN, Python, Java**
+- 💬 Ask me about **MERN/MEAN, NEXT, Javascript, Typescript, Python, Java, SQL/NoSQL**
 - 📫 Email: **gakkhar.manan11@gmail.com**
 - ⚡ Collaborative | Leader | Problem Solver
 
