@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-Web Developer || UI Prototyping || Crafting Custom Solutions
+Full-Stack Engineer || Built for shipping, wired for winning
 </h3>
 
 ---
